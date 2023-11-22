@@ -619,3 +619,20 @@ header.sticky ul li a{
   width: 0%;
 }
 
+.icons{																				/* icons */
+	text-align: center;
+	margin: 17px auto 20px auto;
+	padding: 0px;
+
+}
+
+.icons li{
+	display:inline ;
+	margin: 0px 8px;
+}
+
+img{
+	height: 35px;
+	width: auto;
+
+}
